@@ -9,8 +9,8 @@ First, the full load method could be useful with the small data volumn and the o
 
 
 ## Example:
-Dataset: (https://github.com/lhhorng/etl_bulk_load/tree/main/dataset)
-Code: (https://github.com/lhhorng/etl_bulk_load/blob/main/main/etl_bulk_load.py)
+- Dataset: (https://github.com/lhhorng/etl_bulk_load/tree/main/dataset)
+- Code: (https://github.com/lhhorng/etl_bulk_load/blob/main/main/etl_bulk_load.py)
 
 
 
