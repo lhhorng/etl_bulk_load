@@ -8,5 +8,6 @@ First, the full load method could be useful with the small data volumn and the o
 
 
 ## Example:
-Dataset: 
+Dataset: (https://github.com/lhhorng/etl_bulk_load/tree/main/dataset)
+Code:
 
