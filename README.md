@@ -9,6 +9,4 @@ First, the full load method could be useful with the small data volumn and the o
 
 ## Example:
 - Dataset: (https://www.kaggle.com/datasets/thedevastator/behavioral-risk-factors-tobacco)
-- Code:
-- 
 
