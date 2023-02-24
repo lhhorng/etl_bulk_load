@@ -7,7 +7,10 @@ First, the full load method could be useful with the small data volumn and the o
 ![full load flow](https://github.com/lhhorng/etl_bulk_load/blob/f48d0ad9e08755b24e1e9e061c8c85c187298f23/full_load_flow_png.PNG)
 
 
+
 ## Example:
 Dataset: (https://github.com/lhhorng/etl_bulk_load/tree/main/dataset)
-Code:
+Code: (https://github.com/lhhorng/etl_bulk_load/blob/main/main/etl_bulk_load.py)
+
+
 
