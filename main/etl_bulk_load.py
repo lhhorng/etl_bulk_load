@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 # Import library 
 import pandas as pd
 import os
@@ -26,8 +23,7 @@ from sqlalchemy import create_engine
 from datetime import datetime
 
 
-#Dir and credential
-#'postgresql+psycopg2://username:password@host:port/database'
+#credential
 conn_string = 'postgresql+psycopg2://username:password@host:port/database'
 db = create_engine(conn_string)
 conn = db.connect()
@@ -42,10 +38,5 @@ df.to_sql(
     index=False,
 )
 print("to_sql duration: {} seconds".format(time.time() - start_time))
-
-
-# In[ ]:
-
-
 
 
